@@ -18,3 +18,4 @@ easy for visualize.
 
 
 • The webapp can predict following Diseases are diabetes,heart ,parkinson’s disease.
+![image](https://user-images.githubusercontent.com/86976690/183260171-d83308e3-f4c9-4d11-bb99-8a52e6e442ef.png)
