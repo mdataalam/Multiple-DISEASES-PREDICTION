@@ -1,1 +1,0 @@
-streamlit run "C:\Users\ata alam\Desktop\Multiple Disease Prediction System\ataalam.py"
