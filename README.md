@@ -3,7 +3,7 @@
 PROBLEM STATEMENT
 
 
-we can acces app live at railwa:[https://all-in-one-disease-prediction.herokuapp.com/](https://web-production-ee24.up.railway.app/)
+we can acces app live at railwa:(https://web-production-ee24.up.railway.app/)
 
 
 In the current time of pandemic people prefer to be home treated and to ensure they avoid contaminated places such as hospitals and clinics as much as possible. Our project aims to provides a user friendly platform to cross validate results at go and to spread general awareness and provide precautionary measures.
