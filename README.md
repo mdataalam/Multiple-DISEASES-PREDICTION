@@ -5,6 +5,8 @@ PROBLEM STATEMENT
 
 we can acces app live at railway
  https://mdataalam.github.io/WEB-DISEASE-PREDICTION/
+ 
+ 
 :(https://web-production-ee24.up.railway.app/)
 
 
